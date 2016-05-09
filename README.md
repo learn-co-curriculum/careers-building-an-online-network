@@ -100,5 +100,8 @@ In the body of your email again include:
 
 Update your Careers Prep Tracker sheet with the date submitted.
 
+## Resources
+
+[How I Got Interviews at Facebook, Google, Apple, and Uber in One Week](http://www.inc.com/jake-newfield/how-i-got-interviews-at-facebook-google-apple-and-uber-in-one-week.html?cid=cp01002wired)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-finding-and-connecting-with-people-online'>Careers Finding and Connecting with People Online </a> on Learn.co and start learning to code for free.</p>
