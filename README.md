@@ -79,7 +79,7 @@ You donâ€™t need to be face-to-face to form strong professional relationships â€
 
 Create a Google doc. Remember to title it "Your Name" + "Finding and Connecting with People Online."
 
-Identify one person you would like to connect with. In your doc, explain why this person interests you and how connecting with him/her might be helpful to your job search. Then using the tips above, write a draft of a customized email that you would send to him/her. You'll go over that email with your coach and eventually send it :)
+Identify three people you would like to connect with. In your doc, explain why this person interests you and how connecting with him/her might be helpful to your job search. You will use the doc in the near future when you begin drafting outreach emails.
 
 **Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments. 
 
