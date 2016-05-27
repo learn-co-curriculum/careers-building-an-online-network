@@ -2,7 +2,7 @@
 
 Not everyone has a current and thriving network of first and second-degree connections. If you’re newer in your career, you may not have one at all. And that’s okay. 
 
-A lot can come out of identifying and reaching out to people online—even if you never connected with them before. The lesson below covers how to find these people and how to engage with them.
+A lot can come out of identifying and reaching out to people online—even if you've never connected with them before. The lesson below covers how to find these people and how to engage with them.
 
 ## How to Find the Right People to Connect With 
 
@@ -77,17 +77,15 @@ You don’t need to be face-to-face to form strong professional relationships �
 
 ## Assignment- Finding and Connecting with People 
 
-Create a Google doc. Remember to retitle it ""Your Name" + Finding and Connecting with People."
+Create a Google doc. Remember to title it "Your Name" + "Finding and Connecting with People Online."
 
-Find three people you would like to connect with. In your doc, list these three people and a few words/lines as to why you'd like to connect with them. 
-
-Then using the tips above, write a draft of a customized email that you would send to one of these people you've listed. 
+Identify one person you would like to connect with. In your doc, explain why this person interests you and how connecting with him/her might be helpful to your job search. Then using the tips above, write a draft of a customized email that you would send to him/her. You'll go over that email with your coach and eventually send it :)
 
 **Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments. 
 
 Remember in the subject line to include your name and this specific assignment.
 
-In this case, your email subject line will be “”Your Name” + Finding and Connecting with People”
+In this case, your email subject line will be “Your Name” + "Finding and Connecting with People”
 
 In the body of your email again include:
 >Your Name
