@@ -23,7 +23,7 @@ To keep track of your research, create a spreadsheet. Use your job tracking spre
 
 ## How to Find an Email Address
 
-Great, you compiled a shortlist of people you’d love to meet. Next, you need to find the best way reach them. In almost all cases, your first outreach to a person will be via email. Unlike sending out a tweet or LinkedIn message, which can easily go unnoticed, in an email you’ll be right in a recipient’s inbox, and more likely to be seen. 
+Great, you compiled a shortlist of people you’d love to meet. Next, you need to find the best way to reach them. In almost all cases, your first outreach to a person will be via email. Unlike sending out a tweet or LinkedIn message, which can easily go unnoticed, in an email you’ll be right in a recipient’s inbox, and more likely to be seen. 
 
 Here are some of the most common ways to find an email address. 
 
@@ -103,3 +103,5 @@ Update your Careers Prep Tracker sheet with the date submitted.
 [How I Got Interviews at Facebook, Google, Apple, and Uber in One Week](http://www.inc.com/jake-newfield/how-i-got-interviews-at-facebook-google-apple-and-uber-in-one-week.html?cid=cp01002wired)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-finding-and-connecting-with-people-online'>Careers Finding and Connecting with People Online </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-finding-and-connecting-with-people-online'>Finding And Connecting With People Online</a> on Learn.co and start learning to code for free.</p>
