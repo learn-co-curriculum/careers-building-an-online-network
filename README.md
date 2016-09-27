@@ -75,7 +75,7 @@ When you’re ready to send an email, here’s a few things to keep in mind so y
 
 You don’t need to be face-to-face to form strong professional relationships —you can take part in relationship-building online. What matters is **how** you approach them. In the end, be clear, concise, and respectful of them and their time. Just like meeting in real-life, first impressions are also formed digitally.
 
-## Assignment- Finding and Connecting with People 
+## If You Have a Premium Account: Assignment- Finding and Connecting with People 
 
 Create a Google doc. Remember to title it "Your Name" + "Finding and Connecting with People Online."
 
