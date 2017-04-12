@@ -75,28 +75,7 @@ When you’re ready to send an email, here’s a few things to keep in mind so y
 
 You don’t need to be face-to-face to form strong professional relationships —you can take part in relationship-building online. What matters is **how** you approach them. In the end, be clear, concise, and respectful of them and their time. Just like meeting in real-life, first impressions are also formed digitally.
 
-## If You Have a Premium Account: Assignment- Finding and Connecting with People 
 
-Create a Google doc. Remember to title it "Your Name" + "Finding and Connecting with People Online."
-
-Identify three people you would like to connect with. In your doc, explain why this person interests you and how connecting with him/her might be helpful to your job search. You will use the doc in the near future when you begin drafting outreach emails.
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments. 
-
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “Your Name” + "Finding and Connecting with People”
-
-In the body of your email again include:
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to this specific Google document
-
-Update your Careers Prep Tracker sheet with the date submitted.
 
 ## Resources
 
