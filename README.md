@@ -30,8 +30,8 @@ So how do you actually find these contacts? Let’s go over two approaches.
 1. **Make a list of companies that interest you** (have a specific reason — maybe you love their blog, maybe their tech stack is particularly cool to you, or perhaps you’re an avid user of their product). Start with 20 companies. If you’re not sure what companies are out there, or what companies might interest you, poke around on themuse.com, glassdoor.com, inc.com, forbes.com, techcrunch.com, and linkedin.com to get some inspiration.
 
 2. Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
-* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “Engineers”, “Developers”, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
-* List at least 1 of each kind of employee (1 dev and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
+>* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “Engineers”, “Developers”, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
+>* List at least 1 of each kind of employee (1 dev and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
 
 3. **Locate the contact information** for these people. [This article](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses/?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can help you figure that out.
 
@@ -45,8 +45,8 @@ So how do you actually find these contacts? Let’s go over two approaches.
 ## Approach 2 - Using job postings to guide your outreach
 
 1. **Make a list of jobs that interest you** using sites like LinkedIn, StackoverflowCareers, Indeed, and other niche job search sites. Start with 20 jobs.
- * Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
- * Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “Engineers”, “Developers”, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
+ >* Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
+ >* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “Engineers”, “Developers”, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
 
 2. **List at least 1 of each kind of employee** (1 dev and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
 
@@ -83,13 +83,9 @@ Here are some of the most common ways to find an email address.
 If the approaches above prove fruitless, there are a few other things you can try:
 
   1. [Mailtester.com](http://mailtester.com/) - checks whether an email address is attached to a specific domain 
-
   2. [Snapbird](http://snapbird.org/) - allows you to search Twitter to see if a person ever shared their email address in a Tweet 
-
   3. [Connectifier](https://www.connectifier.com/) - a web browser plug-in that pops up whenever a user views a profile on a social site like LinkedIn or GitHub to provide additional information like email addresses and phone numbers. 
-
   4. [Hunter](https://hunter.io/) - lets you find email addresses in seconds and connect with the people that matter 
-
   5. [RocketReach](https://rocketreach.co/) - Find email, phone, social links for over 250 million professionals, across 6 million companies, worldwide.
 
 It’s pretty easy to figure out a company’s email convention (e.g. firstname@company.com). If you can figure out the email address of one employee at a company you can likely do some detective work online (google or the company's website) and figure out the email address of a person you’re trying to contact if you know his or her full name. 
