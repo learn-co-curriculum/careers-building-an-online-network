@@ -45,8 +45,8 @@ So how do you actually find these contacts? Let’s go over two approaches.
 ## Approach 2 - Using job postings to guide your outreach
 
 1. **Make a list of jobs that interest you** using sites like LinkedIn, StackoverflowCareers, Indeed, and other niche job search sites. Start with 20 jobs.
-* Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
-* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “Engineers”, “Developers”, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
+ * Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
+ * Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “Engineers”, “Developers”, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
 
 2. **List at least 1 of each kind of employee** (1 dev and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
 
@@ -74,23 +74,23 @@ Here are some of the most common ways to find an email address.
 * **Github profile** - Many people will list their email address on their Github profile.
 * **Google** - Use Google to identify the email format/convention of a company. In other words, once you confirm one email address of someone at a company, you can usually deduce that it is the same format for most everyone else at that company. To identify a company’s common email format/convention do the following:
 
- 1. Open up a new Google Search window and type: email @company.com [include a space between the word “email” and the “@”]
- 2. Next, scroll down the first page and look for any results that come up that are a person’s email address at that company. 
- 3. If the first page doesn’t yield any desired results, search the 2rd, 3rd or even 4th page of results as well.
- 4. If this doesn’t work try a new search, using: contact @company.com [add a space between the word “email” and the “@”].
+  1. Open up a new Google Search window and type: email @company.com [include a space between the word “email” and the “@”]
+  2. Next, scroll down the first page and look for any results that come up that are a person’s email address at that company. 
+  3. If the first page doesn’t yield any desired results, search the 2rd, 3rd or even 4th page of results as well.
+  4. If this doesn’t work try a new search, using: contact @company.com [add a space between the word “email” and the “@”].
 
 
 If the approaches above prove fruitless, there are a few other things you can try:
 
-1. [Mailtester.com](http://mailtester.com/) - checks whether an email address is attached to a specific domain 
+  1. [Mailtester.com](http://mailtester.com/) - checks whether an email address is attached to a specific domain 
 
-2. [Snapbird](http://snapbird.org/) - allows you to search Twitter to see if a person ever shared their email address in a Tweet 
+  2. [Snapbird](http://snapbird.org/) - allows you to search Twitter to see if a person ever shared their email address in a Tweet 
 
-3. [Connectifier](https://www.connectifier.com/) - a web browser plug-in that pops up whenever a user views a profile on a social site like LinkedIn or GitHub to provide additional information like email addresses and phone numbers. 
+  3. [Connectifier](https://www.connectifier.com/) - a web browser plug-in that pops up whenever a user views a profile on a social site like LinkedIn or GitHub to provide additional information like email addresses and phone numbers. 
 
-4. [Hunter](https://hunter.io/) - lets you find email addresses in seconds and connect with the people that matter 
+  4. [Hunter](https://hunter.io/) - lets you find email addresses in seconds and connect with the people that matter 
 
-5. [RocketReach](https://rocketreach.co/) - Find email, phone, social links for over 250 million professionals, across 6 million companies, worldwide.
+  5. [RocketReach](https://rocketreach.co/) - Find email, phone, social links for over 250 million professionals, across 6 million companies, worldwide.
 
 It’s pretty easy to figure out a company’s email convention (e.g. firstname@company.com). If you can figure out the email address of one employee at a company you can likely do some detective work online (google or the company's website) and figure out the email address of a person you’re trying to contact if you know his or her full name. 
 
@@ -107,21 +107,21 @@ Remember, building a professional network is a long-term strategy. The idea is t
 When you’re ready to send an email, here’s a few things to keep in mind so you come across as helpful, not a nuisance.
  
 
-**Send a customized email.** It's *really* obvious when an email message is a boilerplate template, copied and pasted to many people. Send a personal message! Sit down, and take the time to write a well thought out, and meaningful email - it will go a long way!
+* **Send a customized email.** It's *really* obvious when an email message is a boilerplate template, copied and pasted to many people. Send a personal message! Sit down, and take the time to write a well thought out, and meaningful email - it will go a long way!
 
-**Explain why.** After briefly introducing yourself, share why you’re reaching out to them. Make your intent crystal clear (i.e. Do you want to learn about the reader’s technical background? Are you interested in whether the company is hiring? etc.)
+* **Explain why.** After briefly introducing yourself, share why you’re reaching out to them. Make your intent crystal clear (i.e. Do you want to learn about the reader’s technical background? Are you interested in whether the company is hiring? etc.)
 
-**Find a commonality.** If possible, find some kind of mutual connection (“I also know Sally!”), interest (“I’m a Vegan, too.”), location (“In fact, I went to college in Boston! I loved it there.”), etc. When you can’t find something personal, use code and/or interest in the company as a mutual ground.
+* **Find a commonality.** If possible, find some kind of mutual connection (“I also know Sally!”), interest (“I’m a Vegan, too.”), location (“In fact, I went to college in Boston! I loved it there.”), etc. When you can’t find something personal, use code and/or interest in the company as a mutual ground.
 
-**Show interest.** In them, their job, their blog, company, industry, etc. Be specific about what it is you’re interested in. If you like a person’s blog, cite a specific post they wrote and why it resonated with you.
+* **Show interest.** In them, their job, their blog, company, industry, etc. Be specific about what it is you’re interested in. If you like a person’s blog, cite a specific post they wrote and why it resonated with you.
 
-**Provide value.**  Even if it’s as simple as complimenting their website’s design. You could also include an article you’d think they’d like (say, if you know they are vegan, a recent article that talks about all the benefits of being a vegan).
+* **Provide value.**  Even if it’s as simple as complimenting their website’s design. You could also include an article you’d think they’d like (say, if you know they are vegan, a recent article that talks about all the benefits of being a vegan).
 
-**Make your ask specific and not too big.** Your initial email should have some kind of “call to action” or ask. Essentially, an action you’d like them to take. However, make sure it is something small enough that they could do in a few minutes or less. If your ask is too big, the person will probably save the email for later. And then there’s a great chance they’ll never get back to it. So, you want to make the ask simple enough that they can respond right away. Review ‘The Ask’ content in the previous lesson.
+* **Make your ask specific and not too big.** Your initial email should have some kind of “call to action” or ask. Essentially, an action you’d like them to take. However, make sure it is something small enough that they could do in a few minutes or less. If your ask is too big, the person will probably save the email for later. And then there’s a great chance they’ll never get back to it. So, you want to make the ask simple enough that they can respond right away. Review ‘The Ask’ content in the previous lesson.
 
-**Be respectful of them/their time.** Remember: you’re approaching them. They are going out of their way to help you. So, be respectful of their time. If they say they can only do a 15-minute phone call, don’t press for a 30-minute one.
+* **Be respectful of them/their time.** Remember: you’re approaching them. They are going out of their way to help you. So, be respectful of their time. If they say they can only do a 15-minute phone call, don’t press for a 30-minute one.
 
-**Don’t forget to thank them.** Thinking into the future once you’ve established contact and had a coffee meeting, don’t forget to follow up with a thank you. In future lessons we address the specifics of these. Additionally, should this new contact actually be responsible for introducing you to your next job, you need to go out of your way to thank that person. Even consider sending them a small gift (like a plant or a bottle of wine) as a token of your appreciation.
+* **Don’t forget to thank them.** Thinking into the future once you’ve established contact and had a coffee meeting, don’t forget to follow up with a thank you. In future lessons we address the specifics of these. Additionally, should this new contact actually be responsible for introducing you to your next job, you need to go out of your way to thank that person. Even consider sending them a small gift (like a plant or a bottle of wine) as a token of your appreciation.
 
 ## It's All About Relationship Building
 
