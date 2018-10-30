@@ -82,11 +82,11 @@ Here are some of the most common ways to find an email address.
 
 If the approaches above prove fruitless, there are a few other things you can try:
 
-  1. [Mailtester.com](http://mailtester.com/) - checks whether an email address is attached to a specific domain 
-  2. [Snapbird](http://snapbird.org/) - allows you to search Twitter to see if a person ever shared their email address in a Tweet 
-  3. [Connectifier](https://www.connectifier.com/) - a web browser plug-in that pops up whenever a user views a profile on a social site like LinkedIn or GitHub to provide additional information like email addresses and phone numbers. 
-  4. [Hunter](https://hunter.io/) - lets you find email addresses in seconds and connect with the people that matter 
-  5. [RocketReach](https://rocketreach.co/) - Find email, phone, social links for over 250 million professionals, across 6 million companies, worldwide.
+* [Mailtester.com](http://mailtester.com/) - checks whether an email address is attached to a specific domain 
+* [Snapbird](http://snapbird.org/) - allows you to search Twitter to see if a person ever shared their email address in a Tweet 
+* [Connectifier](https://www.connectifier.com/) - a web browser plug-in that pops up whenever a user views a profile on a social site like LinkedIn or GitHub to provide additional information like email addresses and phone numbers. 
+* [Hunter](https://hunter.io/) - lets you find email addresses in seconds and connect with the people that matter 
+* [RocketReach](https://rocketreach.co/) - Find email, phone, social links for over 250 million professionals, across 6 million companies, worldwide.
 
 It’s pretty easy to figure out a company’s email convention (e.g. firstname@company.com). If you can figure out the email address of one employee at a company you can likely do some detective work online (google or the company's website) and figure out the email address of a person you’re trying to contact if you know his or her full name. 
 
@@ -130,6 +130,8 @@ You don’t need to be face-to-face to form strong professional relationships �
 [How I Got Interviews at Facebook, Google, Apple, and Uber in One Week](http://www.inc.com/jake-newfield/how-i-got-interviews-at-facebook-google-apple-and-uber-in-one-week.html?cid=cp01002wired)
 
 [How to Write a Perfect Cold Outreach Email: 5 Elements to Consider Before Hitting Send](https://blog.hubspot.com/marketing/email-outreach-elements-scripts)
+
+
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-finding-and-connecting-with-people-online'>Careers Finding and Connecting with People Online </a> on Learn.co and start learning to code for free.</p>
 
