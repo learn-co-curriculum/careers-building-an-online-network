@@ -10,7 +10,7 @@ First, you need to find the right people to connect with. You can’t just conne
 
 One strategy is using interesting job postings you find online as “leads.” Then, find developers/hiring professionals who work at these companies.
 
-You can also use LinkedIn to find people who work at companies you’d like to work for and/or individuals who have your “dream” position, like being a lead developer at a gaming company.
+You can also use LinkedIn to find people who work at companies you’d like to work for and/or individuals who have your “dream” position.
 
 Here are some other places where you can research people to connect with online:
 
@@ -18,7 +18,7 @@ Here are some other places where you can research people to connect with online:
 * Social media (LinkedIn, Twitter, Facebook)
 * Their blogs
 * Online communities/forums (Meetup groups, StackOverflow, Reddit)
-* GitHub
+* GitHub (Software Engineering or Data Science) or Behance (Design)
 * Professional associations and societies
 
 To keep track of your research, create a spreadsheet. In an earlier lesson, you created a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit) - you can keep this research in a separate tab if that’s helpful for you.
@@ -30,8 +30,8 @@ So how do you actually find these contacts? Let’s go over two approaches.
 1. **Make a list of companies that interest you** (have a specific reason — maybe you love their blog, maybe their tech stack is particularly cool to you, or perhaps you’re an avid user of their product). Start with 20 companies. If you’re not sure what companies are out there, or what companies might interest you, poke around on themuse.com, glassdoor.com, inc.com, forbes.com, techcrunch.com, and linkedin.com to get some inspiration.
 
 2. Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
->* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “Engineers”, “Developers”, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
->* List at least 1 of each kind of employee (1 dev and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
+>* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on practitioners in your field of study, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
+>* List at least 1 of each kind of employee (1 practitioner and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
 
 3. **Locate the contact information** for these people. [This article](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses/?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can help you figure that out.
 
@@ -45,14 +45,14 @@ So how do you actually find these contacts? Let’s go over two approaches.
 ## Approach 2 - Using job postings to guide your outreach
 
 1. **Make a list of jobs that interest you** using sites like LinkedIn, StackoverflowCareers, Indeed, and other niche job search sites. Start with 20 jobs.
- >* Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
- >* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on “Engineers”, “Developers”, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
+ >* Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://learn.co/tracks/career-prep/career-prep/effective-networking/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
+ >* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword (people sitting in the jobs/holding the job titles you want you want), and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
 
-2. **List at least 1 of each kind of employee** (1 dev and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
+2. **List at least 1 of each kind of employee** (1 practitioner and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
 
 3. **Locate the contact information for these people.** [This article](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can help you figure that out.
 
-4. **Draft emails** to the people you plan to reach out to. Again we’ll cover communication best practices in future lessons, but here’s an example of an [upcoming lesson](https://github.com/learn-co-curriculum/careers-opening-the-line-of-communication) that’ll help you with this.
+4. **Draft emails** to the people you plan to reach out to. Again we’ll cover communication best practices in future lessons, but here’s an example of an [upcoming lesson](https://learn.co/tracks/career-prep/career-prep/effective-networking/opening-the-line-of-communication) that’ll help you with this.
 
 5. **Send those drafts to your Career Coach.**
 
@@ -71,7 +71,7 @@ Here are some of the most common ways to find an email address.
 
 * **Website/blog** -  - If they have one, look on their “Contact” or “About” page. Alternative options including looking on pages such as “Our Team” (see if their email addresses are embedded there) and “News”/”Press Releases” (companies will often list the email address of their internal PR person at the bottom of press releases).
 * **LinkedIn profile** - Many people will include their email address in their contact or summary section on LinkedIn. (Also, in the “advice for contacting” section usually found at the bottom.)
-* **Github profile** - Many people will list their email address on their Github profile.
+* **Industry communities** - Many people will list their email address on their GitHub or Behance profile.
 * **Google** - Use Google to identify the email format/convention of a company. In other words, once you confirm one email address of someone at a company, you can usually deduce that it is the same format for most everyone else at that company. To identify a company’s common email format/convention do the following:
 
   1. Open up a new Google Search window and type: email @company.com [include a space between the word “email” and the “@”]
@@ -90,8 +90,6 @@ If the approaches above prove fruitless, there are a few other things you can tr
 
 It’s pretty easy to figure out a company’s email convention (e.g. firstname@company.com). If you can figure out the email address of one employee at a company you can likely do some detective work online (google or the company's website) and figure out the email address of a person you’re trying to contact if you know his or her full name. 
 
-Check out this [index](https://sites.google.com/site/emails4corporations/index) of company email addresses. 
-
 For more tips on finding an email address, look [here](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST).
 
 ## How to Engage with Them 
@@ -107,7 +105,7 @@ When you’re ready to send an email, here’s a few things to keep in mind so y
 
 * **Explain why.** After briefly introducing yourself, share why you’re reaching out to them. Make your intent crystal clear (i.e. Do you want to learn about the reader’s technical background? Are you interested in whether the company is hiring? etc.)
 
-* **Find a commonality.** If possible, find some kind of mutual connection (“I also know Sally!”), interest (“I’m a Vegan, too.”), location (“In fact, I went to college in Boston! I loved it there.”), etc. When you can’t find something personal, use code and/or interest in the company as a mutual ground.
+* **Find a commonality.** If possible, find some kind of mutual connection (“I also know Sally!”), interest (“I’m a Vegan, too.”), location (“In fact, I went to college in Boston! I loved it there.”), etc. When you can’t find something personal, use your passion for your craft and/or interest in the company as a mutual ground.
 
 * **Show interest.** In them, their job, their blog, company, industry, etc. Be specific about what it is you’re interested in. If you like a person’s blog, cite a specific post they wrote and why it resonated with you.
 
@@ -124,15 +122,9 @@ When you’re ready to send an email, here’s a few things to keep in mind so y
 You don’t need to be face-to-face to form strong professional relationships —you can take part in relationship-building online. What matters is **how** you approach them. In the end, be clear, concise, and respectful of them and their time. Just like meeting in real-life, first impressions are also formed digitally.
 
 
-
 ## Resources
 
 [How I Got Interviews at Facebook, Google, Apple, and Uber in One Week](http://www.inc.com/jake-newfield/how-i-got-interviews-at-facebook-google-apple-and-uber-in-one-week.html?cid=cp01002wired)
 
 [How to Write a Perfect Cold Outreach Email: 5 Elements to Consider Before Hitting Send](https://blog.hubspot.com/marketing/email-outreach-elements-scripts)
 
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-finding-and-connecting-with-people-online'>Careers Finding and Connecting with People Online </a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-finding-and-connecting-with-people-online'>Finding And Connecting With People Online</a> on Learn.co and start learning to code for free.</p>
