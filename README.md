@@ -21,7 +21,7 @@ Here are some other places where you can research people to connect with online:
 * GitHub (Software Engineering or Data Science) or Behance (Design)
 * Professional associations and societies
 
-To keep track of your research, create a spreadsheet. In an earlier lesson, you created a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit) - you can keep this research in a separate tab if that’s helpful for you.
+To keep track of your research, you'll want to use a [job search tracker spreadsheet](https://docs.google.com/spreadsheets/d/1zdl3Cs3ev0ehS9h2in1aNntLWNVUExNEjdi4Vn_ydy8/edit?usp=sharing) (your Career Coach will create one for you) - you can keep this research in a separate tab if that’s helpful for you.
 
 So how do you actually find these contacts? Let’s go over two approaches.
 
@@ -31,7 +31,7 @@ So how do you actually find these contacts? Let’s go over two approaches.
 
 2. Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://github.com/learn-co-curriculum/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
 >* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword. Focus on practitioners in your field of study, and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
->* List at least 1 of each kind of employee (1 practitioner and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
+>* List at least 1 of each kind of employee (1 practitioner and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1zdl3Cs3ev0ehS9h2in1aNntLWNVUExNEjdi4Vn_ydy8/edit?usp=sharing) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
 
 3. **Locate the contact information** for these people. [This article](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses/?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can help you figure that out.
 
@@ -48,7 +48,7 @@ So how do you actually find these contacts? Let’s go over two approaches.
  >* Next, **look up people** who work at those companies via an advanced search on LinkedIn. Not sure how to do this? We have a [future lesson](https://learn.co/tracks/career-prep/career-prep/effective-networking/linkedin-for-research-and-networking) on just that, but here are some quick tips below.
  >* Do an advanced search where you look up people with that company on their profile and a specific job title or keyword (people sitting in the jobs/holding the job titles you want you want), and people who work in Human Resources or Recruiting (sometimes called “Talent Acquisition” or “People Operations” or even just “People”, i.e. “Director of People”).
 
-2. **List at least 1 of each kind of employee** (1 practitioner and 1 person working in recruiting/HR) in your [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
+2. **List at least 1 of each kind of employee** (1 practitioner and 1 person working in recruiting/HR) in your job search tracker on the “leads” tab. You can reach out to both on the same day or stagger your outreach, whichever you prefer.
 
 3. **Locate the contact information for these people.** [This article](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can help you figure that out.
 
