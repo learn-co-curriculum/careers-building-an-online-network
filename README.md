@@ -77,7 +77,7 @@ Here are some of the most common ways to find an email address.
   1. Open up a new Google Search window and type: email @company.com [include a space between the word “email” and the “@”]
   2. Next, scroll down the first page and look for any results that come up that are a person’s email address at that company. 
   3. If the first page doesn’t yield any desired results, search the 2rd, 3rd or even 4th page of results as well.
-  4. If this doesn’t work try a new search, using: contact @company.com [add a space between the word “email” and the “@”].
+  4. If this doesn’t work try a new search, using: contact @company.com [add a space between the word “contact” and the “@”].
 
 
 If the approaches above prove fruitless, there are a few other things you can try:
