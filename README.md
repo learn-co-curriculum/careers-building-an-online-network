@@ -8,7 +8,7 @@ A lot can come out of identifying and reaching out to people online—even if yo
 ## How to Find the Right People to Connect With 
 First, you need to find the right people to connect with. You can’t just connect with anyone. You want to be strategic about it and identify individuals who work at companies you’d like to work for, or who hold job titles you’d like to have. (Or, aspire to one day have.)
 
-One strategy is using interesting job postings you find online as “leads.” Then, find developers/hiring professionals who work at these companies.
+One strategy is using interesting job postings you find online as “leads.” Then, find professionals in your field who work at these companies.
 
 You can also use LinkedIn to find people who work at companies you’d like to work for and/or individuals who have your “dream” position.
 
