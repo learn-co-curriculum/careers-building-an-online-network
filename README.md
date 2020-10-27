@@ -83,8 +83,7 @@ Here are some of the most common ways to find an email address.
 If the approaches above prove fruitless, there are a few other things you can try:
 
 * [Mailtester.com](http://mailtester.com/) - checks whether an email address is attached to a specific domain 
-* [Snapbird](http://snapbird.org/) - allows you to search Twitter to see if a person ever shared their email address in a Tweet 
-* [Connectifier](https://www.connectifier.com/) - a web browser plug-in that pops up whenever a user views a profile on a social site like LinkedIn or GitHub to provide additional information like email addresses and phone numbers. 
+* [Skrapp](https://skrapp.io/) - a Chrome extension and web application that allows you to find emails for hard-to-reach contacts 
 * [Hunter](https://hunter.io/) - lets you find email addresses in seconds and connect with the people that matter 
 * [RocketReach](https://rocketreach.co/) - Find email, phone, social links for over 250 million professionals, across 6 million companies, worldwide.
 
